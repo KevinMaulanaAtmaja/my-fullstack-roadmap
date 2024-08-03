@@ -1,6 +1,6 @@
-# HTML & CSS Learning Path
+# Full-Stack Learning Path
 
-Hello and welcome to my HTML and CSS learning path. This document provides a summary of the repositories related to HTML and CSS that I have explored.
+Welcome to my Full-Stack learning path. This repo provides a summary of the repositories related to Full-Stack Tech that I have explored.
 
 ## Repositories
 
@@ -19,6 +19,10 @@ Hello and welcome to my HTML and CSS learning path. This document provides a sum
 -   [CSS Grid - WPU](https://github.com/KevinMaulanaAtmaja/grid-css)
 -   [CSS Value & Unit - WPU](https://github.com/KevinMaulanaAtmaja/css-value-and-unit)
 -   [SASS - WPU](https://github.com/KevinMaulanaAtmaja/css-preprocessor-sass)
+
+### JavaScript
+
+-   [JS Basic - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/JS%20Dasar)
 
 ## Getting Started
 
