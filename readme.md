@@ -23,6 +23,7 @@ Welcome to my Full-Stack learning path. This repo provides a summary of the repo
 ### JavaScript
 
 -   [JS Basic - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/JS%20Dasar)
+-   [JS DOM - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/JS%20DOM)
 
 ## Getting Started
 
