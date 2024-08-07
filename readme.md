@@ -26,6 +26,7 @@ Welcome to my Full-Stack learning path. This repo provides a summary of the repo
 -   [JS DOM - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/JS%20DOM)
 -   [JS ES6 - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/JS%20ES6)
 -   [JS OOP - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/JS%20Objek)
+-   [Gallery JS - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/Membuat%20galeri%20dg%20JavaScript)
 
 ## Getting Started
 
