@@ -28,6 +28,7 @@ Welcome to my Full-Stack learning path. This repo provides a summary of the repo
 -   [JS OOP - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/JS%20Objek)
 -   [Gallery JS - SekolahKoding](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/SekolahKoding/Membuat%20galeri%20dg%20JavaScript)
 -   [JS Basic - WPU](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/WPU/JS-Dasar)
+-   [JS DOM - WPU](https://github.com/KevinMaulanaAtmaja/javascript-path/tree/main/WPU/JS-DOM)
 
 ## Getting Started
 
